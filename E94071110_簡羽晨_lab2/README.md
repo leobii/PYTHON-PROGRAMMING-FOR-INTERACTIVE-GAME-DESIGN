@@ -1,1 +1,1 @@
-Go to `lab02.pdf`
+See __*lab02.pdf*__.  
