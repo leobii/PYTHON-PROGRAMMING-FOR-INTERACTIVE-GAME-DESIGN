@@ -8,3 +8,5 @@ In this lab, five functions are completed in file __*enemy.py*__:
 File __*settings.py*__ record *screen size*, *frame rate*, *color* and *enemy path*.  
 
 The main function is wriiten in __*main.py*__.  
+
+In case of some annoying path problems, __*E94071110Lab3.zip*__ is a compressed file of this folder.
